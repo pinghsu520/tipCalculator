@@ -43,10 +43,7 @@ class FirstViewController: UIViewController {
     
     @IBAction func donateChange(_ sender: Any) {
         let bill=Double(donateField.text!) ?? 0
-//        let total2=bill+Double(totalLabel.text!) ?? 0
-//        totalDonate.text="$\(total2)"
-        
-    }
+	    }
     @IBAction func onTap(_ sender: Any) {
         view.endEditing(true)
     }
