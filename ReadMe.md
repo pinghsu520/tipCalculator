@@ -1,6 +1,6 @@
 Submitted by: Ping Hsu
 
-Time spent: 8 hours spent in total, 4 hours installing XCode on Oracle VM
+M
 
 ## User Stories
 
@@ -18,11 +18,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/5CKVpp1Mru.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-## Notes.
 
-First time building an IOS application and first time utilizing Swift and Objective C. 
-  I learned how to use the UI primarily for the macOSx development and how the UI elements interact
-  int the project
 
 ## License
 
