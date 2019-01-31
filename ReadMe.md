@@ -1,16 +1,10 @@
 Submitted by: Ping Hsu
-
-M
-
 ## User Stories
 
-The following **required** functionality is complete:
+The following functionality is complete:
 
 * [ x ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 
-The following **additional** features are implemented:
-
-- [ x ] Donate option, changes with total (not fully implemented)
 
 ## Video Walkthrough 
 
